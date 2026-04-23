@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-image",
+      "description": "A vibrant green farm field under a clear blue sky, representing modern agriculture.",
+      "imageUrl": "https://images.unsplash.com/photo-1666545743813-e692fb2b2430?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxncmVlbiUyMGZhcm18ZW58MHx8fHwxNzYxOTMyNjE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "green farm"
+    }
+  ]
+}
