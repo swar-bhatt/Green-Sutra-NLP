@@ -126,13 +126,16 @@ Green Sutra aims to:
 ## Project Links
 
 Repository:  
-https://github.com/KapX09/Green_Sutra_NLP.git
+https://github.com/swar-bhatt/Green-Sutra-NLP
 
 
 Output Screenshots:  
 ![1. Dashboard View](output/img1.png) 
-![2. Dashboard View in Gujrati](output/img2.png)
-
+![2. Dashboard View(Guj)](output/img2.png)
+![3. Green Sutra Chatbot(Eng)](output/img3.png)
+![4. Green Sutra Chatbot results(Eng)](output/img5.png)
+![5. Green Sutra Chatbot(Guj)](output/img4.png)
+![6. Green Sutra Chatbot results(Guj)](output/img6.png)
 ---
 
 ## What Was Learnt
